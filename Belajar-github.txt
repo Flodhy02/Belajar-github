@@ -1,4 +1,4 @@
 untuk belajar buat direktori
 buat branch
-merge file
 buat flowchart
+buat merge github
