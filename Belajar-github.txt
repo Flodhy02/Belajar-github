@@ -1,4 +1,3 @@
 untuk belajar buat direktori
-buat branch
-buat flowchart
 buat merge github
+buat checkout
