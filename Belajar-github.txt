@@ -2,3 +2,4 @@ untuk belajar buat direktori
 buat branch
 buat flowchart
 buat merge github
+Buat pull request
