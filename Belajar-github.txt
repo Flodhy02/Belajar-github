@@ -2,3 +2,4 @@ untuk belajar buat direktori
 buat merge github
 
 buat checkout
+buat mkdir
