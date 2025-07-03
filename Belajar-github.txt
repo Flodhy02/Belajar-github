@@ -3,3 +3,4 @@ buat merge github
 buat git add
 buat checkout
 buat mkdir
+buat baru
