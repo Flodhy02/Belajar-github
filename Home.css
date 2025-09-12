@@ -1,0 +1,17 @@
+.home {
+  text-align: center;
+  background-color: #222;
+  min-height: 100vh;
+  color: white;
+}
+
+.title {
+  padding: 20px;
+  font-size: 28px;
+  color: #f39c12;
+}
+
+.content {
+  display: flex;
+  justify-content: space-between;
+}
